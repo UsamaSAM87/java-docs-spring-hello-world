@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello Vapor VM.";
+		return "Hi Vapor VM.";
 	}
 }
